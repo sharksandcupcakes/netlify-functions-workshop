@@ -6,6 +6,6 @@
   "author": "David Wells <hello@davidwells.io> (https://davidwells.io/)",
   "license": "MIT",
   "dependencies": {
-    "faunadb": "^2.6.1"
+    "faunadb": "^2.9.4"
   }
 }
