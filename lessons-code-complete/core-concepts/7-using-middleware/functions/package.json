@@ -5,6 +5,6 @@
   "author": "David Wells",
   "license": "MIT",
   "dependencies": {
-    "middy": "^0.24.0"
+    "middy": "^0.30.4"
   }
 }
