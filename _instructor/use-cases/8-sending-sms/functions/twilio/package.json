@@ -5,6 +5,6 @@
   "author": "David Wells",
   "license": "MIT",
   "dependencies": {
-    "twilio": "^3.30.0"
+    "twilio": "^3.37.1"
   }
 }
