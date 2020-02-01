@@ -7,6 +7,6 @@
   "author": "David Wells <hello@davidwells.io> (https://davidwells.io/)",
   "license": "MIT",
   "dependencies": {
-    "firebase-admin": "^7.0.0"
+    "firebase-admin": "^8.3.0"
   }
 }
